@@ -7,4 +7,4 @@ In this episode, Episode 5, we go beyond the Fashion MNIST and the MNIST dataset
 
  Like the previous R Notebooks, this Notebook tries to replicate the Python Notebook used for this episode.
 
-You can find the R blog post on [Rpubs](https://rpubs.com/eR_ic/mlr_5).
+You can find the R blog post of this code on [Rpubs](https://rpubs.com/eR_ic/mlr_5).
